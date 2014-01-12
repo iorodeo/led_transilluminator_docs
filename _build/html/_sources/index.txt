@@ -1,0 +1,72 @@
+.. led transilluminator documentation master file, created by
+   sphinx-quickstart on Wed Dec 18 11:49:56 2013.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Open source DIY kit
+================================================
+This documentation describes how to make a blue LED (470nm) transilluminator for DNA imaging. There are several kit sizes available:
+
+* `Mini transilluminator kit (IMG-04-01) <http://www.iorodeo.com/content/blue-led-transilluminator-kit-0>`_: 6 cm x 7cm viewing area, 9x8 led array
+* `Midi transilluminator kit (IMG-04-02) <http://www.iorodeo.com/content/midi-blue-led-transilluminator-kit>`_: 7 cm x 14 cm viewing area, 9x18 led array 
+* `Large transilluminator kit (IMG-04-03) <http://www.iorodeo.com/content/large-blue-led-transilluminator-kit>`_: 14 cm x 14 cm viewing area, 18x18 led array
+
+.. figure:: main_image.JPG
+   :align:  center
+
+
+Each blue LED transilluminator kit comes with the following parts:
+
+* Electronics: LED array PCB, set of blue LEDs, switch, DC Jack and resistors
+* Hardware: Standoffs, screws and a mini-screwdriver for easy assembly
+* Enclosure and filters: Laset cut acrylics including the black enclosure, diffuser, amber and blue filters 
+
+
+.. figure:: kit_contents.JPG
+   :align:  center
+
+License
+------------
+This is an open source hardware project licensed under the `Creative Commons Attribution 3.0 License <http://creativecommons.org/licenses/by/3.0>`_. 
+
+Design files
+---------------
+
+* KiCad PCB design and Gerber files -  https://bitbucket.org/iorodeo/led_transilluminator_pcb
+* Acrylic enclosure - https://bitbucket.org/iorodeo/led_transilluminator_enclosure
+
+
+Table of Contents
+======================
+
+Kit contents
+-----------------------
+.. toctree::
+   :maxdepth: 2
+
+   electronics.rst
+   hardware.rst
+   acrylics.rst
+
+Transilluminator kit assembly instructions
+---------------------------------------------
+.. toctree::
+   :maxdepth: 2
+
+
+   assembly_step1.rst
+   assembly_step2.rst
+   assembly_step3.rst
+   assembly_step4.rst
+   other_images.rst
+
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+

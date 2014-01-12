@@ -1,0 +1,22 @@
+Acylic enclosure and filters
+===============================
+
+.. figure:: acrylics_small.JPG
+   :align:  center
+
+
+Design files for the three enclosures (mini, midi and large) can be downloaded from the project page on Bitbucket at https://bitbucket.org/iorodeo/led_transilluminator_enclosure. The following materials are used for cutting the enclosure designs:
+
+
+====================  ======================   ==================   ===========================         
+Part                  Description              Vendor               Part #
+====================  ======================   ==================   ===========================         
+Enclosure             1/8" black acrylic       McMaster-Carr        8505K11 (12" x 12" sheet)
+Clear engraved top    1/16" clear acrylic      McMaster-Carr        8560K178 (6" x 12" sheet)
+Amber filter          1/8" amber acrylic       McMaster-Carr        85635K462	(6"  x 6" sheet)
+Blue filter           1/8" blue acrylite       acrylite-shop.com    5C028GT (12" x 12" sheet)	
+Mask plate            1/16" black acrylic      Inventables          24112-01 (12" x 24" sheet) 
+Diffuser              Light diffusing film     Inventables          23114-02 (pack of sheets)
+====================  ======================   ==================   ===========================         
+
+
